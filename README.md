@@ -16,7 +16,7 @@
 * Abzal: [HKHR_Abzal.ipynb](https://github.com/timhugele/Hong_Kong_Horse_Racing/blob/Abzal/HKHR_Abzal.ipynb)
 
 ### Project Presentation
-* [Google Slides] (https://docs.google.com/presentation/d/1equvB3q35yTqE2_hQVRzISJnZNZJ1_PD9xE36v_rqx0/edit#slide=id.g73c1a3de1a_2_19)
+* [Google Slides](https://docs.google.com/presentation/d/1equvB3q35yTqE2_hQVRzISJnZNZJ1_PD9xE36v_rqx0/edit#slide=id.g73c1a3de1a_2_19)
 
 ### Problem Summary
 * Using the data from Kaggle we are attempting to predict which horses will come in first place from horse races in Hong Kong. We intend to use this information to profitably bet on horse racing. Our target audience is a group of investors who would want to have us bet money on their behalf.
